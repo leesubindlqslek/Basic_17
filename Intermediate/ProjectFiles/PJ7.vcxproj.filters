@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PJ7.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Project7HW.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Project7HWEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Project7HW">
+      <UniqueIdentifier>{38B85FD0-7DF4-3B0E-9261-F3D651938394}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Project7HW\Project7HW.Build.cs">
+      <Filter>Source\Project7HW</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Project7HW\Project7HW.cpp">
+      <Filter>Source\Project7HW</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Project7HW.h">
+      <Filter>Source\Project7HW</Filter>
+    </ClCompile>
+    <Filter Include="Source\Project7HW\Private">
+      <UniqueIdentifier>{2DEA0CA5-6499-3469-95CE-1BB5F5D8DC2D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Project7HW\Private\BaseItem.cpp">
+      <Filter>Source\Project7HW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Private\BigCoinItem.cpp">
+      <Filter>Source\Project7HW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Private\CoinItem.cpp">
+      <Filter>Source\Project7HW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Private\GoodPerson.cpp">
+      <Filter>Source\Project7HW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Private\HealingItem.cpp">
+      <Filter>Source\Project7HW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Private\ItemInterface.cpp">
+      <Filter>Source\Project7HW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Private\ItemSpawnRow.cpp">
+      <Filter>Source\Project7HW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Private\MineItem.cpp">
+      <Filter>Source\Project7HW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Private\SmallCoinItem.cpp">
+      <Filter>Source\Project7HW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Private\SpartaCharacter.cpp">
+      <Filter>Source\Project7HW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Private\SpartaGameInstance.cpp">
+      <Filter>Source\Project7HW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Private\SpartaGameMode.cpp">
+      <Filter>Source\Project7HW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Private\SpartaGameState.cpp">
+      <Filter>Source\Project7HW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Private\SpartaPlayerController.cpp">
+      <Filter>Source\Project7HW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Private\SpawnVolume.cpp">
+      <Filter>Source\Project7HW\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Project7HW\Public">
+      <UniqueIdentifier>{6110130E-465D-30CA-A769-65251543F4AE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Project7HW\Public\BaseItem.h">
+      <Filter>Source\Project7HW\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Public\BigCoinItem.h">
+      <Filter>Source\Project7HW\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Public\CoinItem.h">
+      <Filter>Source\Project7HW\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Public\GoodPerson.h">
+      <Filter>Source\Project7HW\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Public\HealingItem.h">
+      <Filter>Source\Project7HW\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Public\ItemInterface.h">
+      <Filter>Source\Project7HW\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Public\ItemSpawnRow.h">
+      <Filter>Source\Project7HW\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Public\MineItem.h">
+      <Filter>Source\Project7HW\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Public\SmallCoinItem.h">
+      <Filter>Source\Project7HW\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Public\SpartaCharacter.h">
+      <Filter>Source\Project7HW\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Public\SpartaGameInstance.h">
+      <Filter>Source\Project7HW\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Public\SpartaGameMode.h">
+      <Filter>Source\Project7HW\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Public\SpartaGameState.h">
+      <Filter>Source\Project7HW\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Public\SpartaPlayerController.h">
+      <Filter>Source\Project7HW\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project7HW\Public\SpawnVolume.h">
+      <Filter>Source\Project7HW\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
